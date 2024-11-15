@@ -84,7 +84,7 @@ const AboutDetails = () => {
 
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
-            href="https://github.com/gdev-kingx/SpaceInvaders.js-v2"
+            href="https://github.com/gdev-kingx/Vibestyle"
             target="_blank"
             className="w-full"
           >
